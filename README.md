@@ -159,8 +159,13 @@ images/
 
 ## 👨‍💻 Team Members
 
-- Tulsidas Mandal
-- *(Add other team members here)*
+1.	ARYA SEN (Roll No. 34900322041) 
+2.	TULSIDAS MANDAL (Roll No. 34900322040) 
+3.	SURAJIT MODAK (Roll No. 34900322042) 
+4.	SOUVIK GHOSH (Roll No. 34900322047) 
+5.	ATANU DUTTA (Roll No. 34900322002)
+6.	SYED SUFI ATEEQUER RAHAMAN (Roll No. 34900323065)
+
 
 Department of Electronics & Communication Engineering
 
