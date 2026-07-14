@@ -52,7 +52,6 @@ SmartCool/
 │
 ├── SmartCool.ino        # Arduino source code
 ├── README.md            # Project documentation
-└── images/              # Project images (optional)
 ```
 
 ---
