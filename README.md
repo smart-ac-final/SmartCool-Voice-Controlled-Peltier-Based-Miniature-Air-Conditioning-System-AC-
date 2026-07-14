@@ -123,18 +123,6 @@ Example commands:
 
 ---
 
-## 📷 Project Images
-
-You can add images here.
-
-```
-images/
-├── prototype.jpg
-├── circuit_diagram.png
-├── block_diagram.png
-```
-
----
 
 ## 🎯 Applications
 
@@ -146,16 +134,6 @@ images/
 
 ---
 
-## 🔮 Future Improvements
-
-- Automatic temperature control
-- Mobile notifications
-- LCD/OLED temperature display
-- Battery-powered portable version
-- AI-based energy optimization
-- Voice feedback system
-
----
 
 ## 👨‍💻 Team Members
 
